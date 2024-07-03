@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-Hyeon!👋&fontSize=50%)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-Hyeon Park!👋&fontSize=50%)
 
 #### Seohyeoning's GitHub! :blush:
 - 🔭 I’m currently working at Korea University, Seoul, Republic of Korea.
