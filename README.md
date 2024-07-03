@@ -5,7 +5,8 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=BDBDC8&height=150&section=footer" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
+![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyeoning&hide=contribs,prs&show_icons=true&theme=graywhite)
 <!--
 **seohyeoning/seohyeoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
