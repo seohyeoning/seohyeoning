@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=BDBDC8&height=150&section=footer" />
 
 <!--
 **seohyeoning/seohyeoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
