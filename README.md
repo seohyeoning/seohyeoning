@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-Hyeon!👋&fontSize=50%)
 
 #### Seohyeoning Github! :blush:
-
+- 🔭 I’m currently working at Korean University, Seoul, Republic of Korea.
+- 🌱 I’m currently learning deep learning with multi-modal data
+- 👯 I’m looking to collaborate on an interesting project using artificial intelligence
+- 📫 How to reach me: tjgus9190@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
 
