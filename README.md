@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-Hyeon%20Park!👋&fontSize=50%)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-Hyeon%20Park!🙋‍♀️&fontSize=30%&animation=twinkling)
 
 #### Seohyeoning's GitHub! :blush:
 - 🔭 I’m currently working at Korea University, Seoul, Republic of Korea. 
@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on interesting projects using artificial intelligence.
 - 📫 How to reach me: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeoning&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyeoning&hide=contribs,prs&show_icons=true&theme=radical) 
