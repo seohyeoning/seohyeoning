@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-Hyeon!👋&fontSize=50%)
 
-#### Seohyeoning Github!👋
+#### Seohyeoning Github!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
