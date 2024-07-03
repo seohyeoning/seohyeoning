@@ -1,8 +1,8 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=BDBDC8&height=150&section=header" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 #### Seohyeoning Github!👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=BDBDC8&height=150&section=footer" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
 
