@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-Hyeon%20Park!👋&fontSize=50%)
 
 #### Seohyeoning's GitHub! :blush:
-- 🔭 I’m currently working at Korea University, Seoul, Republic of Korea.
+- 🔭 I’m currently working at Korea University, Seoul, Republic of Korea. 
 - 🌱 I’m currently learning deep learning with multi-modal data.
 - 👯 I’m looking to collaborate on interesting projects using artificial intelligence.
 - 📫 How to reach me: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
