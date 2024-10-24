@@ -4,8 +4,9 @@
 - 🔭 I work at Korea University, Seoul, Republic of Korea. 
 - 🌱 I’m currently learning deep learning with multi-modal data.
 - 👯 I’m looking to collaborate on interesting projects using artificial intelligence.
-- 📫 How to reach me: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
+- 📫 How to reach me
   - Email: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
+  - LinkedIn: https://www.linkedin.com/in/psh823/
 - 🗂️ Check out my research portfolio here: https://apple-spoon-b42.notion.site/research-psh
 
 ### Tech Stack
