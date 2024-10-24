@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-hyeon%20Park!🙋‍♀️&fontSize=30%&animation=twinkling)
 
 ### Seohyeon's GitHub! :blush:
-- 🔭 I work at Korea University, Seoul, Republic of Korea. 
-- 🌱 I’m currently learning deep learning with multi-modal data.
+- 🎓 I recently completed my MS degree at Korea University, Seoul, Republic of Korea.
+- 🌱 I’m interested in research areas including multi-modal fusion, mobility, BCI, and anomaly detection.
+- 👀 I’m seeking job opportunities and looking to collaborate on interesting projects using artificial intelligence.
 - 👯 I’m looking to collaborate on interesting projects using artificial intelligence.
 - 📫 How to reach me
   - Email: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
