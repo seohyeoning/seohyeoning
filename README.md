@@ -8,7 +8,7 @@
 - 🗂️ Check out my research portfolio here: https://apple-spoon-b42.notion.site/research-psh
 
 ### Tech Stack
-#### Programming Languages
+#### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white)
