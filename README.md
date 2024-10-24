@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-hyeon%20Park!🙋‍♀️&fontSize=30%&animation=twinkling)
 
-#### Seohyeon's GitHub! :blush:
+### Seohyeon's GitHub! :blush:
 - 🔭 I work at Korea University, Seoul, Republic of Korea. 
 - 🌱 I’m currently learning deep learning with multi-modal data.
 - 👯 I’m looking to collaborate on interesting projects using artificial intelligence.
