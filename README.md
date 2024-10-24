@@ -7,32 +7,24 @@
 - 📫 How to reach me: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
 - 🗂️ Check out my research portfolio here: https://apple-spoon-b42.notion.site/research-psh
 
-### Programming Languages
+### Tech Stack
+#### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
-### Development Environments
+#### Development Environments
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
-### Tools & Platforms
+#### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
 
-Programming Languages: Python, PyTorch, Shell Script, MATLAB
-Development Environments: Visual Studio Code, Android Studio, MATLAB
-Tools & Platforms: Docker, Linux, SQL
-
-https://img.shields.io/badge/<Visual%20Studio%20Code>-<색>?logo=<로고>
-https://img.shields.io/badge/<GitHub>-<색>?logo=<로고>
-https://img.shields.io/badge/<텍스트>-<색>?logo=<로고>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
 
 
 <!--
