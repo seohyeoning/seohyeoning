@@ -3,7 +3,7 @@
 ### Seohyeon's GitHub! :blush:
 - 🎓 I recently completed my MS degree at Korea University, Seoul, Republic of Korea.
 - 🌱 I’m interested in research areas including multi-modal fusion, mobility, BCI, and anomaly detection.
-- 👀 I’m seeking job opportunities and looking to collaborate on interesting projects using AI.
+- 👀 I’m seeking job opportunities and looking to collaborate on interesting projects using [AI].
 - 📫 How to reach me
   - Email: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
   - LinkedIn: https://www.linkedin.com/in/psh823/
