@@ -14,8 +14,9 @@
 #### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white)
 
 #### Development Environments
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
@@ -25,7 +26,7 @@
 #### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
 
 
 
