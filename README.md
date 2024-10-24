@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning deep learning with multi-modal data.
 - 👯 I’m looking to collaborate on interesting projects using artificial intelligence.
 - 📫 How to reach me: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
-- 🗂️ Check out my research portfolio here: [https://apple-spoon-b42.notion.site/research-psh]
+- 🗂️ Check out my research portfolio here: https://apple-spoon-b42.notion.site/research-psh
 
 
 
