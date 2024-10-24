@@ -9,6 +9,7 @@
   - LinkedIn: https://www.linkedin.com/in/psh823/
 - 🗂️ Check out my research portfolio here: https://apple-spoon-b42.notion.site/research-psh
 
+\n
 
 ## Tech Stack
 #### Programming & Development
