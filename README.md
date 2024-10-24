@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Seo-hyeon%20Park!🙋‍♀️&fontSize=30%&animation=twinkling)
 
-#### Seohyeoning's GitHub! :blush:
-- 🔭 I’m currently working at Korea University, Seoul, Republic of Korea. 
+#### Seohyeon's GitHub! :blush:
+- 🔭 I work at Korea University, Seoul, Republic of Korea. 
 - 🌱 I’m currently learning deep learning with multi-modal data.
 - 👯 I’m looking to collaborate on interesting projects using artificial intelligence.
 - 📫 How to reach me: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
+- 🗂️ Check out my research portfolio here: [https://apple-spoon-b42.notion.site/research-psh]
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyeoning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
