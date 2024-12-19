@@ -7,7 +7,7 @@
 - 📫 How to reach me
   - Email: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
   - LinkedIn: https://www.linkedin.com/in/psh823/
-- 🗂️ Check out my research portfolio here: https://apple-spoon-b42.notion.site/research-psh  
+
 
 
 ## Tech Stack
