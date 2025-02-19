@@ -12,19 +12,15 @@
 
 ## Tech Stack
 #### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white)
+[Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+[SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) 
+[Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+[Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) 
 
-#### Development Environments
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
 #### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+[Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
