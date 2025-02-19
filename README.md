@@ -2,7 +2,7 @@
 
 ## Seohyeon's GitHub! :blush:
 - 🎓 I recently completed my MS degree at Korea University, Seoul, Republic of Korea.
-- 🌱 I’m interested in research areas including multi-modal AI, Applied AI system
+- 🌱 I’m interested in research areas including multi-modalAI, Applied AI system
 - 👀 I’m seeking job opportunities and looking to collaborate on interesting projects using AI.
 - 📫 How to reach me
   - Email: [tjgus9190@gmail.com](mailto:tjgus9190@gmail.com)
@@ -27,6 +27,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
