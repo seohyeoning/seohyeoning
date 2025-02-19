@@ -25,8 +25,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+[![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyeoning)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -->
